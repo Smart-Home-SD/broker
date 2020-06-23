@@ -12,4 +12,4 @@ Arquivos básicos do broker para armazenar dados dos sensores na collection do M
 
 ## Backups
 Quando possível vou disponibilizar backups da collection que deixo rodando coletando dados dos dispositivos.
-* Último backup (16/06/2020) : **smarthomeCollection1606.json**
+* Último backup (23/06/2020) : **smarthomeCollection2306.json**
